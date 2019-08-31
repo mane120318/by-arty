@@ -1,0 +1,162 @@
+*   {
+    margin: 0;
+    padding: 0;
+}
+
+body   {
+    background-color:white ;
+}
+
+.logo-div   {
+    display: flex;
+}
+
+.logo   {
+    width: 100%;
+    height: 120%;
+}
+
+.a1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 2%;
+    font-size: 90%;
+}
+
+.xndir  {
+    font-family: "calibri", Garamond, 'Comic Sans MS';
+}
+
+.lucum  {
+    font-family: "calibri", Garamond, 'Comic Sans MS';
+}
+
+.xndir, .lucum, .hart_gorc {
+    width: 20%;
+}
+
+.web_sites  {
+    display: flex;
+    flex-direction: row;
+}
+
+.insta {
+    width: 30px;
+    height: 30px;
+}
+
+.fb {
+    width: 24px;
+    height: 24px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #60acd6;
+    height: 70px;
+    align-items: center;
+    padding: 0 150px;
+}
+
+.hart_gorc  {
+    font-family: "calibri", Garamond, 'Comic Sans MS';
+    margin-left: 2%;
+}
+
+.try-div    {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.try    {
+    min-width: 300px;
+    min-height: 44px;
+    border-radius: 0px;
+    color: black;
+    background: rgb(109, 162, 241);
+    font-family: "calibri", Garamond, 'Comic Sans MS';
+    font-size: 150%;
+}
+
+.picture-div    {
+    margin-top: 2%;
+}
+
+.picture    {
+    width: 100%;
+}
+
+.mmm    {
+    font-weight: bold;
+}
+
+.lll    {
+    margin-bottom: 0.5%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-weight: bold;
+    font-size: 300%;
+}
+
+.mockup-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+}
+
+.mockup {
+    width: 25%;
+    height: 45%;
+}
+/* 
+.mockup1    {
+    width: 50%;
+    height: 70%;
+} */
+
+.kkk    {
+    width: 1.5%;
+    height: 5%;
+}
+
+.vvv    {
+    width: 1%;
+    height: 4%;
+}
+
+.logo1  {
+    width: 10%;
+    height: 80%;
+}
+
+.contact    {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+}
+
+.contact-us {
+    font-size: 250%;
+}
+
+.text   {
+    margin-bottom: 2%;
+}
+
+.text1  {
+    height: 60px;
+    margin-bottom: 2%;
+}
+
+.submit {
+    background-color: #60acd6;
+    width: 70px;
+}
